@@ -10,5 +10,7 @@ my reddit bot that gets a meme picture and posts it to my instagram
 
 3- pip3 install -r requirements.txt (Python 3)
 
+4- edit config.json to your info
+
 # usage
 python3 insta_reddit.py
