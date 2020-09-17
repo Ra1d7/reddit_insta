@@ -1,0 +1,12 @@
+{
+	"default" : "False",
+	"images" : 10,
+	"subreddit" : "dankmemes",
+	"path" : "C:\\path\\to\\your\\file",
+    "client_id" : "clientid",
+    "client_secret" : "yourclientsecret",
+    "rpassword" : "redditpass",
+    "rusername" : "reddituser",
+    "useragent" : "instaReddit meme bot",
+	"instauser":"instausername",
+	"instapass":"instapass"
